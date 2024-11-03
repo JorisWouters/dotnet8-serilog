@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "dotnet_serilog": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7109",
+      "launchBrowser": false
+    }
+  }
+}
